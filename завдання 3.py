@@ -1,5 +1,0 @@
-print('числа від 1 до 300, які не діляться на 5:')
-for i in range(1,301):
-    if i % 5!=0:
-        print(i, end='')
-print()
